@@ -1,0 +1,24 @@
+# 文档目录 —— 项目内部设计文档，不纳入版本控制
+文档/
+
+# 构建产物
+*.exe
+*.test
+*.out
+
+# 初始化脚本
+mod init.bat
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Go 缓存
+vendor/
+
+# 操作系统
+.DS_Store
+Thumbs.db
