@@ -9,6 +9,9 @@
 # 初始化脚本
 mod init.bat
 
+# 商业合作协议模板
+PARTNERSHIP.md
+
 # IDE
 .idea/
 .vscode/
